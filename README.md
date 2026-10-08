@@ -1,5 +1,6 @@
 # Propagación hacia adelante en una red neuronal simple
 
+aksel 
 Este repositorio contiene un cuaderno de Jupyter que implementa la propagación hacia adelante (forward propagation) en una red neuronal totalmente conectada.
 
 ## Requisitos
